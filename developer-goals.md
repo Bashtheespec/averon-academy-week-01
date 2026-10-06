@@ -9,3 +9,5 @@ i want to become a skilled full-stack web developer who can create useful, relia
 3. front-end and backend development and databases for building complete application
 ## My long-term goals in technology
 my long-term goal is to become a succesful software developer, build useful technology products, and eventually create my own technology business
+## my commitment 
+I am committed to practicing consistently, learning from my mistake and completing my Averon Academy projects throught the 8 weeks.
