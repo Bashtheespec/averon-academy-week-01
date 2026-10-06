@@ -9,3 +9,5 @@ i solved the problems by following the instruction step by step, practicing the 
 i still need more practice with git and github, especially understanding commits, branches, pushing code, and working with repositories.
 ## what am i looking forward to learning next?
 i am looking forward to learning more about web development especially HTML CSS, and javasScript and lot more, and eventually building my own websites and applications. i specialy want to thanks our admin SALMAN & ASSADEEQ for this opportunity 
+## my week 1 commitment
+i will continue practicing everyday, improve my coding skills, and complete the remaining weeks of the academy
